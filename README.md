@@ -1,2 +1,2 @@
 # projeto--landing-page
-Este é o projeto de desenvolvimento do módulo base do curso de tecnologia da Escola DNC.
+Esse projeto teve como objetivo desenvolver uma landing page utilizando HTML, CSS e Javascript
